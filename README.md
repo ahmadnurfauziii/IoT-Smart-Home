@@ -19,6 +19,4 @@
 * Upload program, tunggu perangkat booting hingga Serial Monitor menunjukkan tampilan monitoring suhu.
 * Akses node-red dashboard dengan alamat http://138.2.43.154:1880/ui
 
-[![Demo Project IoT](https://img.youtube.com/vi/ZZKoxPK8TpI/0.jpg)](https://youtu.be/ZZKoxPK8TpI "Demo Project IoT")
-
 
